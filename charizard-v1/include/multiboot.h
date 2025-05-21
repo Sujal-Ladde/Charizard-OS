@@ -1,0 +1,7 @@
+#ifndef MULTIBOOT_H
+#define MULTIBOOT_H
+
+#define MULTIBOOT_MAGIC    0x1BADB002
+#define MULTIBOOT_FLAGS    0x00000000
+
+#endif // MULTIBOOT_H
